@@ -89,7 +89,7 @@ li{
 #socials--list{
     display: flex;
     justify-content: center;
-    column-gap: 8em;
+    column-gap: 12em;
     flex-wrap: wrap;
 }
 
