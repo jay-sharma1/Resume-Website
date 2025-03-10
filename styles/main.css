@@ -96,7 +96,7 @@ li{
 #socials--list a{
     font-weight: 300;
     color: var(--secondaryTextColor);
-    font-size: 0.9em;
+    font-size: 1.1em;
     transition: 0.3s;
 }
 
